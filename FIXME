@@ -1,3 +1,4 @@
 For the gmsk system the received signal is very distorted when received at all. 
-It probably requires some parametersto be modified for ito work acceptably. 
+It probably requires some parameters to be modified for ito work acceptably. 
+However, all channels are being transmitted and received to an extent.
 Any solutions to this would be greatly appreciated.
